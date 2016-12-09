@@ -1,4 +1,4 @@
-import MatchingAlgo as MA
+import matchingAlgo as MA
 
 from pandas import Series, DataFrame
 import pandas as pd
